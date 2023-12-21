@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fezepeda (Fernando)
 - 👀 I’m interested in Data and ML Solutions
 - 🌱 I’m currently learning 
-  - Data Mesh
-  - Delta Architecture
+  - Data Architecture
   - Recommendation Systems
+  - Containarized development systems
 - 📫 Write me to [fernando.zepeda@qurix.tech](mailto:fernando.zepeda@qurix.tech)
